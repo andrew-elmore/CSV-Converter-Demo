@@ -3,7 +3,7 @@
     "node": "10.14.1",
     "npm": "6.4.1"
   },
-  "name": "real-analytics",
+  "name": "converter",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
